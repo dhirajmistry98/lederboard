@@ -28,7 +28,7 @@ A responsive, themeable leaderboard application built with React that displays u
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/react-leaderboard.git
+   git clone https://github.com/dhirajmistry98/lederboard
 
    Navigate to the project directory:
 
